@@ -1,0 +1,59 @@
+[2018-05-10 19:18:19] [INFO] 启动浏览器
+[2018-05-10 19:18:27] [INFO] 打开网址http://127.0.0.1:8086/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-10 19:18:27] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-10 19:18:28] [INFO] 找到了元素 [By.id: ls_username]
+[2018-05-10 19:18:28] [INFO] 查找元素 id: ls_username
+[2018-05-10 19:18:28] [INFO] 查找元素 id: ls_username
+[2018-05-10 19:18:28] [INFO] 清空元素 id: ls_username上的内容
+[2018-05-10 19:18:29] [INFO] 给元素 id: ls_username输入内容admin123
+[2018-05-10 19:18:29] [INFO] 开始查找元素：By.id: ls_password
+[2018-05-10 19:18:29] [INFO] 找到了元素 [By.id: ls_password]
+[2018-05-10 19:18:29] [INFO] 查找元素 id: ls_password
+[2018-05-10 19:18:29] [INFO] 查找元素 id: ls_password
+[2018-05-10 19:18:29] [INFO] 清空元素 id: ls_password上的内容
+[2018-05-10 19:18:30] [INFO] 给元素 id: ls_password输入内容admin123
+[2018-05-10 19:18:30] [INFO] 开始查找元素：By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-10 19:18:30] [INFO] 找到了元素 [By.xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button]
+[2018-05-10 19:18:30] [INFO] 查找元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-10 19:18:30] [INFO] 点击元素 xpath: //*[@id="lsform"]/div/div/table/tbody/tr[2]/td[3]/button
+[2018-05-10 19:18:33] [INFO] 开始查找元素：By.linkText: 默认版块
+[2018-05-10 19:18:34] [INFO] 找到了元素 [By.linkText: 默认版块]
+[2018-05-10 19:18:34] [INFO] 查找元素 link text: 默认版块
+[2018-05-10 19:18:37] [INFO] 点击元素 link text: 默认版块
+[2018-05-10 19:18:38] [INFO] 查找元素 xpath: //*[@id="newspecial"]/img
+[2018-05-10 19:18:40] [INFO] 点击元素 xpath: //*[@id="newspecial"]/img
+[2018-05-10 19:18:40] [INFO] 开始查找元素：By.linkText: 发起投票
+[2018-05-10 19:18:41] [INFO] 找到了元素 [By.linkText: 发起投票]
+[2018-05-10 19:18:41] [INFO] 查找元素 link text: 发起投票
+[2018-05-10 19:18:43] [INFO] 点击元素 link text: 发起投票
+[2018-05-10 19:18:43] [INFO] 开始查找元素：By.id: subject
+[2018-05-10 19:18:44] [INFO] 找到了元素 [By.id: subject]
+[2018-05-10 19:18:44] [INFO] 查找元素 id: subject
+[2018-05-10 19:18:44] [INFO] 查找元素 id: subject
+[2018-05-10 19:18:44] [INFO] 清空元素 id: subject上的内容
+[2018-05-10 19:18:44] [INFO] 给元素 id: subject输入内容vote2
+[2018-05-10 19:18:44] [INFO] 开始查找元素：By.id: subject
+[2018-05-10 19:18:44] [INFO] 找到了元素 [By.id: subject]
+[2018-05-10 19:18:45] [INFO] 查找元素 xpath: //*[@id="pollm_c_1"]/p[1]/input
+[2018-05-10 19:18:45] [INFO] 查找元素 xpath: //*[@id="pollm_c_1"]/p[1]/input
+[2018-05-10 19:18:45] [INFO] 清空元素 xpath: //*[@id="pollm_c_1"]/p[1]/input上的内容
+[2018-05-10 19:18:45] [INFO] 给元素 xpath: //*[@id="pollm_c_1"]/p[1]/input输入内容basketball
+[2018-05-10 19:18:45] [INFO] 开始查找元素：By.id: subject
+[2018-05-10 19:18:45] [INFO] 找到了元素 [By.id: subject]
+[2018-05-10 19:18:45] [INFO] 查找元素 xpath: //*[@id="pollm_c_1"]/p[2]/input
+[2018-05-10 19:18:45] [INFO] 查找元素 xpath: //*[@id="pollm_c_1"]/p[2]/input
+[2018-05-10 19:18:46] [INFO] 清空元素 xpath: //*[@id="pollm_c_1"]/p[2]/input上的内容
+[2018-05-10 19:18:46] [INFO] 给元素 xpath: //*[@id="pollm_c_1"]/p[2]/input输入内容baseball
+[2018-05-10 19:18:46] [INFO] 查找元素 id: postsubmit
+[2018-05-10 19:18:47] [INFO] 点击元素 id: postsubmit
+[2018-05-10 19:18:47] [INFO] 开始查找元素：By.id: option_1
+[2018-05-10 19:18:53] [INFO] 找到了元素 [By.id: option_1]
+[2018-05-10 19:18:53] [INFO] 查找元素 id: option_1
+[2018-05-10 19:18:54] [INFO] 点击元素 id: option_1
+[2018-05-10 19:18:54] [INFO] 开始查找元素：By.id: pollsubmit
+[2018-05-10 19:18:54] [INFO] 找到了元素 [By.id: pollsubmit]
+[2018-05-10 19:18:54] [INFO] 查找元素 id: pollsubmit
+[2018-05-10 19:18:54] [INFO] 点击元素 id: pollsubmit
+[2018-05-10 19:18:54] [INFO] 开始查找元素：By.xpath: //*[@id="poll"]/div[2]/table/tbody/tr[1]/td[2]/label
+[2018-05-10 19:18:55] [INFO] 找到了元素 [By.xpath: //*[@id="poll"]/div[2]/table/tbody/tr[1]/td[2]/label]
+[2018-05-10 19:18:55] [INFO] 查找元素 xpath: //*[@id="poll"]/div[2]/table/tbody/tr[1]/td[2]/label

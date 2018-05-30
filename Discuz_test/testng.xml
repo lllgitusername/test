@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="DiscuzWhiteTest">
+    <!--<test name="public">-->                             //运行test再BasicTestCase中BeforeTest
+        <!--<classes>-->
+            <!--<class name="testCase.LoginTestCase"/>-->
+            <!--<class name="testCase.SendTie"/>-->
+            <!--<class name="testCase.HuifuTie"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+    <!--<test name="admin">-->
+        <!--<classes>-->
+            <!--<class name="testCase.AdminLoginTestCase"/>-->
+            <!--<class name="testCase.DelectTie"/>-->
+            <!--<class name="testCase.GuanLiTestCase"/>-->
+            <!--//<class name="testCase.LoginTestCase"/>-->
+            <!--//<class name="testCase.SendNewModelTestCase"/>-->
+       <!--</classes>-->
+    <!--</test>-->
+    <!--<test name="testcase4">-->
+        <!--<classes>-->
+            <!--<class name="testCase.TestCase4"/>-->
+        <!--</classes>-->
+    <!--</test>-->
+</suite>

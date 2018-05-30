@@ -1,0 +1,4 @@
+[2018-05-10 10:14:00] [INFO] 启动浏览器
+[2018-05-10 10:14:08] [INFO] 打开网址http://127.0.0.1:8086/Discuz_X3.2_SC_GBK/upload/forum.php
+[2018-05-10 10:14:08] [INFO] 开始查找元素：By.id: ls_username
+[2018-05-10 10:14:19] [ERROR] 超时!! 10 秒之后还没找到元素 [By.id: ls_username]
